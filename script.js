@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Alternativa 1",
-            afirmacao: "afirmacao"
+            afirmacao: "Taylor Swift era um arraso"
         },
         {
             texto:  "Alternativa 2",
-            afirmacao: "afirmacao"
+            afirmacao: "Kanye era um arraso"
         }   
     ] 
 },
@@ -23,11 +23,11 @@ const perguntas = [
     alternativas: [
         {
             texto: "Alternativa 1",
-            afirmacao: "afirmacao"
+            afirmacao: "Sendo Taylor a Rainha, e Kanye o vilão "
         },
         {
             texto: "Alternativa 2",
-            afrimacao: "afirmacao"
+            afrimacao: "Sendo Kanye o rei, e Taylor a vilã"
         }
 
     ] 
@@ -37,11 +37,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Alternativa 1",
-            afirmacao: "afirmacao"
+            afirmacao: "Os dois se casam"
         },
         {
             texto:  "Alternativa 2",
-            afirmacao: "afirmacao"
+            afirmacao: "Os dois se matam"
         }   
 
     ] 
@@ -51,11 +51,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Alternativa 1",
-            afirmacao: "afirmacao"
+            afirmacao: "Sla, cansei"
         },
         {
             texto:  "Alternativa 2",
-            afirmacao: "afirmacao"
+            afirmacao: "Verdade"
         }   
 
     ] 
@@ -65,11 +65,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Alternativa 1",
-            afirmacao: "afirmacao"
+            afirmacao: "ato"
         },
         {
             texto:  "Alternativa 2",
-            afirmacao: "afirmacao"
+            afirmacao: "final"
         }   
 
     ] 
